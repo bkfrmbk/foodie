@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  likes: 1
+  recipe: one
+  user: one
+  meal: one
+
+two:
+  type: 
+  likes: 1
+  recipe: two
+  user: two
+  meal: two
